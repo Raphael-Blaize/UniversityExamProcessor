@@ -1,23 +1,79 @@
 body {
     background-color: #f8f9fa;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .container {
-    margin-top: 50px;
+    margin: 50px auto;
+    max-width: 800px;
 }
 
-h1 {
+.header {
+    background-color: #ffa07a;
+    color: #fff;
+    padding: 20px;
     text-align: center;
-    margin-bottom: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.header-title {
+    margin: 0;
+    font-size: 2em;
+}
+
+.add-button {
+    margin-top: 20px;
+}
+
+.modal-content {
+    border-radius: 15px;
+}
+
+.modal-header {
+    background-color: #ffa07a;
+    color: #fff;
+    border-bottom: none;
+    border-radius: 15px 15px 0 0;
+}
+
+.modal-body {
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #ced4da;
+}
+
+.btn-primary {
+    background-color: #ffa07a;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn-primary:hover {
+    background-color: #ff7f50;
+}
+
+#reportContainer {
+    margin-top: 30px;
 }
 
 table {
     width: 100%;
-    margin-top: 20px;
     border-collapse: collapse;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     background-color: #fff;
+    margin-top: 20px;
 }
 
 th,
@@ -28,18 +84,23 @@ td {
 }
 
 th {
-    background-color: #007bff;
+    background-color: #ffa07a;
     color: #fff;
 }
 
-.add-button {
-    margin-top: 20px;
+.mt-4 {
+    margin-top: 4rem;
 }
 
-.modal-dialog {
-    max-width: 500px;
+.btn {
+    cursor: pointer;
 }
 
-.modal-content {
-    border-radius: 5px;
+.close {
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.close:hover {
+    color: #fff;
 }
