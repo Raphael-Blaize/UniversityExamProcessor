@@ -23,7 +23,7 @@ Welcome to UniGradeMaster, a sophisticated C# program and <a href = "https://raw
    - Record comprehensive scores (marks) in a minimum of 5 subjects per student, providing a granular view of academic performance.
 
 3. **Automatic Grade Calculation** 🎓
-   - UniGradeMaster employs advanced algorithms to automate grade calculation, adhering to the recognized USIU grading system for precise and consistent results.
+   - UniGradeMaster employs advanced algorithms to automate grade calculation, adhering to a recognized  grading system for precise and consistent results.
 
 4. **Detailed Report Cards** 📄
    - Generate visually polished report cards on the screen, presenting:
