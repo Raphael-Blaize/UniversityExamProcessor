@@ -9,7 +9,7 @@ A project for creating a C# program designed for university departments to proce
 
 ## Overview
 
-Welcome to UniGradeMaster, a sophisticated C# program crafted for seamless student examination processing in academic institutions. Experience unparalleled efficiency in managing student details, scores, and generating meticulously designed report cards.
+Welcome to UniGradeMaster, a sophisticated C# program and <a href = "https://raw.githack.com/Raphael-Blaize/UniversityExamProcessor/bbedb9653b02428b330f8e21e06dcb28fc662380/sem%20project%20web/sem.html">Web solution</a> crafted for seamless student examination processing in academic institutions. Experience unparalleled efficiency in managing student details, scores, and generating meticulously designed report cards.
 
 ## View Project in action
 <a href = "https://raw.githack.com/Raphael-Blaize/UniversityExamProcessor/bbedb9653b02428b330f8e21e06dcb28fc662380/sem%20project%20web/sem.html">Uni Grade Master</a>
